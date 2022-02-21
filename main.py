@@ -143,5 +143,5 @@ for link in our_links:
         print(f'\n skipping "{main_title}" video \n')
 
 
-print(' downloading finished')
+print(' playlist downloading finished')
 print(f'\n all your videos are saved at --> {SAVEPATH}')
