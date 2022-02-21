@@ -2,7 +2,7 @@
 # Usage -
 # 1. open cmd
 # 2. cd to the folder where these files are present
-# 3. type - python ytdown.py
+# 3. type - python main.py
 # the script will start working
 
 
